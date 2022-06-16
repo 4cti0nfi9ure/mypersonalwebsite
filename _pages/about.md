@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Scientist in the <a href='https://www.ait.ac.at/themen/cyber-security'>Cyber Security research group</a> at the <a href='https://www.ait.ac.at/'> AIT Austrian Institute of Technology</a> in Vienna, Austria.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wurzenberger_03.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AIT Austrian Institute of Technology</p>
+    <p>Giefinggasse 4</p>
+    <p>1210 Vienna, Austria</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Markus Wurzenberger is a scientist and project manager at [AIT Austrian Institute of Technology](https://www.ait.ac.at), located in Vienna, Austria. Since 2014 he is part of the [cyber security research group](https://www.ait.ac.at/themen/cyber-security) of AIT's Center for Digital Safety and Security. His main research interests are log data analysis with focus on anomaly detection and cyber threat intelligence (CTI). Besides the involvement in several international and national research projects, Markus is one of the key researchers working on AIT's anomaly detection project [AECID](https://aecid.ait.ac.at/). Among the most prominent solutions developed within this project, Markus and his team created [AMiner](https://github.com/ait-aecid/logdata-anomaly-miner), a software component for log analysis, which implements several anomaly detection algorithms that base on machine learning (ML) artificial intelligence (AI), and statistics. The AMiner is available as package in the official [Debian](https://packages.debian.org/sid/logdata-anomaly-miner) distribution.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2021, Markus finished his PhD in computer science at [TU Wien](https://www.tuwien.at/). His [thesis](https://catalogplus.tuwien.at/permalink/f/qknpf/UTW_alma21115580910003336) focused on resource-efficient log analysis to enable online anomaly detection in cyber security. In 2015 Markus obtained his master's degree in technical mathematics at the [TU Wien](https://www.tuwien.at/). Since 2014 he is a full-time scientist at AIT in the area of cyber security.
