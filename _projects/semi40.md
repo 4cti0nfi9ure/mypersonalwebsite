@@ -7,7 +7,7 @@ importance: 998
 category: completed
 ---
 
-**Duration:** 2016-2019  
+**Duration:** 2016 -- 2019  
 **Call/Grant:**  [ECSEL](https://www.ecsel.eu/) Joint Undertaking, Innovation Action 692466-2, Call 2015-2  
 **Website:** <http://www.semi40.eu/>  
 **Role:** Contributor

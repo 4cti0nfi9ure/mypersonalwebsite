@@ -7,7 +7,7 @@ importance: 999
 category: completed
 ---
 
-**Duration:** 2014-2017  
+**Duration:** 2014 -- 2017  
 **Call/Grant:** EU large-scale integrated project. FP7 Security Call; Grant agreement no: 607577  
 **Website:** <https://ecossian-project.technikon.com/>  
 **Role:** Contributor
