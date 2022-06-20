@@ -2,7 +2,7 @@
 layout: page
 title: CyberMonoLog
 description: Cyber Security MONITORING and LOGGING Best Practice Guidance
-img: 
+img: assets/img/cybermonolog.png
 importance: 991
 category: in progress
 ---

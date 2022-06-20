@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page provides an overview of the main international and national research projects I am involve in and have been involved in. 
 nav: true
 nav_order: 1
 display_categories: [in progress, completed]

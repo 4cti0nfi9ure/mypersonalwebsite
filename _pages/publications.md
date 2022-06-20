@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: This page lists my publications, published data sets, and other research activities by category in reverse chronological order.
 years: [2022,2021,2020,2019,2018,2017,2016,2015]
 nav: true
 nav_order: 2

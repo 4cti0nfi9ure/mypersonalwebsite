@@ -2,7 +2,7 @@
 layout: page
 title: DECEPT
 description: DEtection and Handling of CybEr-Physical Attacks 
-img:
+img: assets/img/decept.png
 importance: 993
 category: in progress
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: MALORI
 description: Malware Communication in Critical Infrastructures
-img:
+img: assets/img/malori.png
 importance: 994
 category: in progress 
 ---
