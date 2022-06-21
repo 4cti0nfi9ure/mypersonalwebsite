@@ -6,7 +6,7 @@ subtitle: Scientist in the <a href='https://www.ait.ac.at/themen/cyber-security'
 
 profile:
   align: right
-  image: wurzenberger_03.jpg
+  image: wurzenberger_03.png
   address: >
     <p>AIT Austrian Institute of Technology</p>
     <p>Giefinggasse 4</p>
